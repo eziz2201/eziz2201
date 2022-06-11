@@ -31,7 +31,7 @@
 <img src="./assets/bootstrap.png" alt="Bootstrap" height="50" />  
 </div>
   
-### Follow Me:
+## Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/EzizMyradov)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ezizhan_myradow/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/eziz-myradov-352192235/)
