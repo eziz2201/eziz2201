@@ -20,10 +20,16 @@
    
 <div align="center" width="100%">  
 <img src="./assets/react.png" alt="React" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" />  
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" />  
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img src="./assets/redux.png" alt="Redux" height="50" />  
+<img src="./assets/js.png" alt="JavaScript" height="50" /> 
+<img src="./assets/Typescript.webp" alt="TypeScript" height="50" /> 
+<img src="./assets/bootstrap.png" alt="Bootstrap" height="50" />  
+<img src="./assets/html.png" alt="HTML5" height="60" />  
+<img src="./assets/css.svg" alt="CSS3" height="60" />  
+<img src="./assets/sass.png" alt="Sass" height="60" />  
+<img src="./assets/styled-components.png" alt="StyledComponents" height="60" />  
+
+ 
 </div>
 
 
