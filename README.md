@@ -18,8 +18,8 @@
 <table><tr><td valign="top" width="100%">
 
    
-<div align="center" style="display: grid; grid-template-columns: repead(9, 1fr);" width="100%">  
-<img src="./assets/react.png" alt="React" height="50" />  
+<div align="center" width="100%">  
+<img style="margin: 10px" src="./assets/react.png" alt="React" height="50" />  
 <img src="./assets/redux.png" alt="Redux" height="50" />  
 <img src="./assets/Typescript.webp" alt="TypeScript" height="50" /> 
 <img src="./assets/js.png" alt="JavaScript" height="50" /> 
