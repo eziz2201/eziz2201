@@ -24,10 +24,10 @@
 <img src="./assets/js.png" alt="JavaScript" height="50" /> 
 <img src="./assets/Typescript.webp" alt="TypeScript" height="50" /> 
 <img src="./assets/bootstrap.png" alt="Bootstrap" height="50" />  
-<img src="./assets/html.png" alt="HTML5" height="60" />  
-<img src="./assets/css.svg" alt="CSS3" height="60" />  
-<img src="./assets/sass.png" alt="Sass" height="60" />  
-<img src="./assets/styled-components.png" alt="StyledComponents" height="60" />  
+<img src="./assets/html.png" alt="HTML5" height="50" />  
+<img src="./assets/css.svg" alt="CSS3" height="50" />  
+<img src="./assets/sass.png" alt="Sass" height="50" />  
+<img src="./assets/styled-components.png" alt="StyledComponents" height="50" />  
 
  
 </div>
