@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="#"><img width="100%" height="auto" src="./assets/iXuL1HG.png" height="175px"/></a>
 
 <!--
 **eziz2201/eziz2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
