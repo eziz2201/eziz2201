@@ -19,7 +19,7 @@
 
    
 <div align="center" width="100%">  
-<img src="./assets/react.png" alt="React" height="50" />  
+
 <img src="./assets/redux.png" alt="Redux" height="50" />  
 <img src="./assets/js.png" alt="JavaScript" height="50" /> 
 <img src="./assets/Typescript.webp" alt="TypeScript" height="50" /> 
