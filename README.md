@@ -1,10 +1,12 @@
+# <div align="center">I'm Eziz, a frontend developer 👨‍💻 🚀</div>  
+  <br/>
+  
 <div align="center">
 <img src="./assets/programmer.gif" align="center" style="width: 100%;"/>
 </div>  
  <br/>
 
-# <div align="center">I'm Eziz, a frontend developer 👨‍💻 🚀</div>  
-  <br/>
+
 
 - 🔭 I’m currently working on Skills  
   
