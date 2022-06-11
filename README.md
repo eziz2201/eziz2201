@@ -1,25 +1,14 @@
-<h1 align="center"><img width="80%" height="auto" src="./assets/programmer.gif" height="175px"/></a>
+<div align="center">
+<img src="./assets/programmer.gif" align="center" style="width: 100%; height:100% " />
+</div>  
+ <br/>
 
-## 📖 About me
+# <div align="center">I'm Eziz, a frontend developer 👨‍💻 🚀</div>  
+  <br/>
 
-* 💻 I'm a full stack web developer
-* 🎨 I'm a self-taught UI designer
-* 📱 I make apps for Android and iOS
-* 🎓 I'm a Computer Science student (graduating in October 2021)
-* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
-* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
+- 🔭 I’m currently working on Skills  
+  
+- ⚡ Fun fact: I love eating food than cooking 😋  
+  
 
-<!--
-**eziz2201/eziz2201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>  
