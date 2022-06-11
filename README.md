@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="./assets/programmer.gif" height="175px"/></a>
+<a href="#"><img width="80%" height="auto" src="./assets/programmer.gif" height="175px"/></a>
 
 ## 📖 About me
 
